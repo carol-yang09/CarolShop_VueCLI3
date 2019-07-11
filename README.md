@@ -1,4 +1,4 @@
-# carolshop 購物網站
+# carolshop 購物網站 Vue CLI 3
 
 [![image.png](https://i.postimg.cc/WzCSs6ND/image.png)](https://postimg.cc/XBK985y3)
 
